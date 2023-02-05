@@ -1,0 +1,258 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Android\Fintech Tinkoff\KinopoiskViewer\app\src\main\AndroidManifest.xml:2:1-25:12
+INJECTED from C:\Android\Fintech Tinkoff\KinopoiskViewer\app\src\main\AndroidManifest.xml:2:1-25:12
+INJECTED from C:\Android\Fintech Tinkoff\KinopoiskViewer\app\src\main\AndroidManifest.xml:2:1-25:12
+INJECTED from C:\Android\Fintech Tinkoff\KinopoiskViewer\app\src\main\AndroidManifest.xml:2:1-25:12
+MERGED from [androidx.databinding:viewbinding:7.2.2] C:\Users\JonhGameDev\.gradle\caches\transforms-3\f1e6ba2de5bde7b89d39013f1636f8b4\transformed\jetified-viewbinding-7.2.2\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.3.1] C:\Users\JonhGameDev\.gradle\caches\transforms-3\009bc1f8905866e4eea612dbd20704ad\transformed\jetified-lifecycle-runtime-ktx-2.3.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.3.1] C:\Users\JonhGameDev\.gradle\caches\transforms-3\dbdefa7ddcf951f0d6efdfa123e3a9ae\transformed\jetified-lifecycle-viewmodel-ktx-2.3.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.room:room-ktx:2.3.0] C:\Users\JonhGameDev\.gradle\caches\transforms-3\9ffa0778a2ee59fe5898c0437cb566f1\transformed\jetified-room-ktx-2.3.0\AndroidManifest.xml:17:1-24:12
+MERGED from [io.coil-kt:coil:1.4.0] C:\Users\JonhGameDev\.gradle\caches\transforms-3\513567a4a6678ca1b6b29dbf856ab3e1\transformed\jetified-coil-1.4.0\AndroidManifest.xml:2:1-9:12
+MERGED from [io.coil-kt:coil-base:1.4.0] C:\Users\JonhGameDev\.gradle\caches\transforms-3\2e1583639dd5c3e6739f78571579f59f\transformed\jetified-coil-base-1.4.0\AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-ktx:2.3.1] C:\Users\JonhGameDev\.gradle\caches\transforms-3\561128d2c47186433627ba07b364941d\transformed\jetified-lifecycle-livedata-ktx-2.3.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core-ktx:1.6.0] C:\Users\JonhGameDev\.gradle\caches\transforms-3\7a861f9249ccf1c1ac69df070704a690\transformed\jetified-core-ktx-1.6.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.material:material:1.4.0] C:\Users\JonhGameDev\.gradle\caches\transforms-3\1be59fef075f9c84b399bd27c6146ced\transformed\material-1.4.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.1] C:\Users\JonhGameDev\.gradle\caches\transforms-3\db61477058d906e03905d56e72c3656a\transformed\constraintlayout-2.1.1\AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.appcompat:appcompat:1.3.1] C:\Users\JonhGameDev\.gradle\caches\transforms-3\a0bf8b7c477d98131c9a28f42afdc00c\transformed\appcompat-1.3.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.0.0] C:\Users\JonhGameDev\.gradle\caches\transforms-3\33b4d3e1ba7ed732343cbfa66aa932e4\transformed\lifecycle-extensions-2.0.0\AndroidManifest.xml:17:1-25:12
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\JonhGameDev\.gradle\caches\transforms-3\b83e256a9dec156aab1838022061cccd\transformed\jetified-viewpager2-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.fragment:fragment:1.3.6] C:\Users\JonhGameDev\.gradle\caches\transforms-3\20bf8af6474958c9dd68b64a11bbc4c4\transformed\fragment-1.3.6\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.activity:activity:1.2.4] C:\Users\JonhGameDev\.gradle\caches\transforms-3\56b0f30e25c327f9b2ca646eee27c595\transformed\jetified-activity-1.2.4\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.1] C:\Users\JonhGameDev\.gradle\caches\transforms-3\aaea4796b26d19e108fca4d867054cce\transformed\jetified-lifecycle-viewmodel-savedstate-2.3.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.savedstate:savedstate:1.1.0] C:\Users\JonhGameDev\.gradle\caches\transforms-3\4313ff3671ffb87236bc4b9970d15589\transformed\jetified-savedstate-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat-resources:1.3.1] C:\Users\JonhGameDev\.gradle\caches\transforms-3\3d51039e3a89ce9fd5347f7f9a58c81c\transformed\jetified-appcompat-resources-1.3.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\JonhGameDev\.gradle\caches\transforms-3\51fe5087fdd48ed501b127d98d307d54\transformed\drawerlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\JonhGameDev\.gradle\caches\transforms-3\3688baf953389492b1552f8d053bd761\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] C:\Users\JonhGameDev\.gradle\caches\transforms-3\e7b6284d2f11850464daba371d7d7920\transformed\dynamicanimation-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.transition:transition:1.2.0] C:\Users\JonhGameDev\.gradle\caches\transforms-3\7debd0ac6ca92804222a364b299ada40\transformed\transition-1.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\JonhGameDev\.gradle\caches\transforms-3\acd4ebf8eafeaed8a1ae46c5acefbba1\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\JonhGameDev\.gradle\caches\transforms-3\492abe694aab402fb7abfd464f659448\transformed\vectordrawable-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\JonhGameDev\.gradle\caches\transforms-3\11efc0b2fcb04ab4f7c75701ef9103a0\transformed\viewpager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\JonhGameDev\.gradle\caches\transforms-3\0ccc3910a3a2c99e69b814b03f7b2084\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\JonhGameDev\.gradle\caches\transforms-3\0e9a627e87160c795e8cfc2f175a5723\transformed\loader-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\JonhGameDev\.gradle\caches\transforms-3\3c3020521dd34189ba09ec91da80142c\transformed\recyclerview-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\JonhGameDev\.gradle\caches\transforms-3\e90300032b32763ffd445f83d39bf6d4\transformed\customview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.6.0] C:\Users\JonhGameDev\.gradle\caches\transforms-3\d229b83cdc3e7ca28ee9afbf3a4add42\transformed\core-1.6.0\AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.lifecycle:lifecycle-process:2.0.0] C:\Users\JonhGameDev\.gradle\caches\transforms-3\cec8e3410bc84a895ae2c3d2479b8923\transformed\jetified-lifecycle-process-2.0.0\AndroidManifest.xml:17:1-30:12
+MERGED from [androidx.lifecycle:lifecycle-service:2.0.0] C:\Users\JonhGameDev\.gradle\caches\transforms-3\473b5659e5c08573a819914f9cebf5bd\transformed\jetified-lifecycle-service-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.3.1] C:\Users\JonhGameDev\.gradle\caches\transforms-3\9ec547c67815d36fdc9a9ef633321ede\transformed\lifecycle-runtime-2.3.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.3.1] C:\Users\JonhGameDev\.gradle\caches\transforms-3\ec92ccf6c55eafb268f8a999b7dafcbc\transformed\lifecycle-livedata-2.3.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.3.1] C:\Users\JonhGameDev\.gradle\caches\transforms-3\bed940d117549e7d1194a7c5091cee1d\transformed\jetified-lifecycle-livedata-core-ktx-2.3.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.1] C:\Users\JonhGameDev\.gradle\caches\transforms-3\d82162269c6d2c50040e0cc01fef604e\transformed\lifecycle-livedata-core-2.3.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.room:room-runtime:2.3.0] C:\Users\JonhGameDev\.gradle\caches\transforms-3\1306f03411ea9a2f33bd0aa90cba6893\transformed\room-runtime-2.3.0\AndroidManifest.xml:17:1-31:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\JonhGameDev\.gradle\caches\transforms-3\5b17a71ece2ca989bfa8753c935f223a\transformed\cursoradapter-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.1] C:\Users\JonhGameDev\.gradle\caches\transforms-3\aef68422f6d63249c4ef2bcac472b885\transformed\lifecycle-viewmodel-2.3.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\JonhGameDev\.gradle\caches\transforms-3\ad22d687c32a4d04abba70996e2507a7\transformed\cardview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.sqlite:sqlite-framework:2.1.0] C:\Users\JonhGameDev\.gradle\caches\transforms-3\8e87aa78a1fcd6d6984e9f64e64ba3bb\transformed\sqlite-framework-2.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.sqlite:sqlite:2.1.0] C:\Users\JonhGameDev\.gradle\caches\transforms-3\89466df521033f30e2ca304e13a225a9\transformed\sqlite-2.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\JonhGameDev\.gradle\caches\transforms-3\847685e6db69733d2c4d51416fe2c0dd\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\JonhGameDev\.gradle\caches\transforms-3\ac62129872e1dfb74e44c079f14dafb1\transformed\jetified-tracing-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\JonhGameDev\.gradle\caches\transforms-3\f6c4110a858e7eb02b5571c4b199991e\transformed\core-runtime-2.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.exifinterface:exifinterface:1.3.3] C:\Users\JonhGameDev\.gradle\caches\transforms-3\ba41d7c162c96887af68a68fcdaeeb13\transformed\exifinterface-1.3.3\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\JonhGameDev\.gradle\caches\transforms-3\5824469b91cd3ecb2574e8c63c1c6a20\transformed\interpolator-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\JonhGameDev\.gradle\caches\transforms-3\07c02335439e7b0dffe3a70337f61d49\transformed\documentfile-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\JonhGameDev\.gradle\caches\transforms-3\eb1e73bd1c131dc51cdd1a4eb08aa361\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] C:\Users\JonhGameDev\.gradle\caches\transforms-3\ca720a569d1ac54396aff985e40e19a7\transformed\print-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] C:\Users\JonhGameDev\.gradle\caches\transforms-3\3b09fb6f07030b199f3594a823bdf54c\transformed\jetified-annotation-experimental-1.1.0\AndroidManifest.xml:17:1-24:12
+INJECTED from C:\Android\Fintech Tinkoff\KinopoiskViewer\app\src\main\AndroidManifest.xml:2:1-25:12
+INJECTED from C:\Android\Fintech Tinkoff\KinopoiskViewer\app\src\main\AndroidManifest.xml:2:1-25:12
+INJECTED from C:\Android\Fintech Tinkoff\KinopoiskViewer\app\src\main\AndroidManifest.xml:2:1-25:12
+	package
+		ADDED from C:\Android\Fintech Tinkoff\KinopoiskViewer\app\src\main\AndroidManifest.xml:3:5-42
+		INJECTED from C:\Android\Fintech Tinkoff\KinopoiskViewer\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Android\Fintech Tinkoff\KinopoiskViewer\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Android\Fintech Tinkoff\KinopoiskViewer\app\src\main\AndroidManifest.xml
+		ADDED from C:\Android\Fintech Tinkoff\KinopoiskViewer\app\src\main\AndroidManifest.xml:2:1-25:12
+		INJECTED from C:\Android\Fintech Tinkoff\KinopoiskViewer\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Android\Fintech Tinkoff\KinopoiskViewer\app\src\main\AndroidManifest.xml
+		ADDED from C:\Android\Fintech Tinkoff\KinopoiskViewer\app\src\main\AndroidManifest.xml:2:1-25:12
+		INJECTED from C:\Android\Fintech Tinkoff\KinopoiskViewer\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Android\Fintech Tinkoff\KinopoiskViewer\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from C:\Android\Fintech Tinkoff\KinopoiskViewer\app\src\main\AndroidManifest.xml:5:5-67
+	android:name
+		ADDED from C:\Android\Fintech Tinkoff\KinopoiskViewer\app\src\main\AndroidManifest.xml:5:22-64
+application
+ADDED from C:\Android\Fintech Tinkoff\KinopoiskViewer\app\src\main\AndroidManifest.xml:7:5-23:19
+MERGED from [com.google.android.material:material:1.4.0] C:\Users\JonhGameDev\.gradle\caches\transforms-3\1be59fef075f9c84b399bd27c6146ced\transformed\material-1.4.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.4.0] C:\Users\JonhGameDev\.gradle\caches\transforms-3\1be59fef075f9c84b399bd27c6146ced\transformed\material-1.4.0\AndroidManifest.xml:22:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.1] C:\Users\JonhGameDev\.gradle\caches\transforms-3\db61477058d906e03905d56e72c3656a\transformed\constraintlayout-2.1.1\AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.1] C:\Users\JonhGameDev\.gradle\caches\transforms-3\db61477058d906e03905d56e72c3656a\transformed\constraintlayout-2.1.1\AndroidManifest.xml:9:5-20
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.0.0] C:\Users\JonhGameDev\.gradle\caches\transforms-3\33b4d3e1ba7ed732343cbfa66aa932e4\transformed\lifecycle-extensions-2.0.0\AndroidManifest.xml:22:5-23:19
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.0.0] C:\Users\JonhGameDev\.gradle\caches\transforms-3\33b4d3e1ba7ed732343cbfa66aa932e4\transformed\lifecycle-extensions-2.0.0\AndroidManifest.xml:22:5-23:19
+MERGED from [androidx.core:core:1.6.0] C:\Users\JonhGameDev\.gradle\caches\transforms-3\d229b83cdc3e7ca28ee9afbf3a4add42\transformed\core-1.6.0\AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.6.0] C:\Users\JonhGameDev\.gradle\caches\transforms-3\d229b83cdc3e7ca28ee9afbf3a4add42\transformed\core-1.6.0\AndroidManifest.xml:24:5-89
+MERGED from [androidx.lifecycle:lifecycle-process:2.0.0] C:\Users\JonhGameDev\.gradle\caches\transforms-3\cec8e3410bc84a895ae2c3d2479b8923\transformed\jetified-lifecycle-process-2.0.0\AndroidManifest.xml:22:5-28:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.0.0] C:\Users\JonhGameDev\.gradle\caches\transforms-3\cec8e3410bc84a895ae2c3d2479b8923\transformed\jetified-lifecycle-process-2.0.0\AndroidManifest.xml:22:5-28:19
+MERGED from [androidx.room:room-runtime:2.3.0] C:\Users\JonhGameDev\.gradle\caches\transforms-3\1306f03411ea9a2f33bd0aa90cba6893\transformed\room-runtime-2.3.0\AndroidManifest.xml:24:5-29:19
+MERGED from [androidx.room:room-runtime:2.3.0] C:\Users\JonhGameDev\.gradle\caches\transforms-3\1306f03411ea9a2f33bd0aa90cba6893\transformed\room-runtime-2.3.0\AndroidManifest.xml:24:5-29:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\JonhGameDev\.gradle\caches\transforms-3\847685e6db69733d2c4d51416fe2c0dd\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\JonhGameDev\.gradle\caches\transforms-3\847685e6db69733d2c4d51416fe2c0dd\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.6.0] C:\Users\JonhGameDev\.gradle\caches\transforms-3\d229b83cdc3e7ca28ee9afbf3a4add42\transformed\core-1.6.0\AndroidManifest.xml:24:18-86
+	android:supportsRtl
+		ADDED from C:\Android\Fintech Tinkoff\KinopoiskViewer\app\src\main\AndroidManifest.xml:12:9-35
+	android:label
+		ADDED from C:\Android\Fintech Tinkoff\KinopoiskViewer\app\src\main\AndroidManifest.xml:10:9-41
+	android:roundIcon
+		ADDED from C:\Android\Fintech Tinkoff\KinopoiskViewer\app\src\main\AndroidManifest.xml:11:9-54
+	android:icon
+		ADDED from C:\Android\Fintech Tinkoff\KinopoiskViewer\app\src\main\AndroidManifest.xml:9:9-43
+	android:allowBackup
+		ADDED from C:\Android\Fintech Tinkoff\KinopoiskViewer\app\src\main\AndroidManifest.xml:8:9-35
+	android:theme
+		ADDED from C:\Android\Fintech Tinkoff\KinopoiskViewer\app\src\main\AndroidManifest.xml:13:9-53
+activity#com.example.kinopoiskViewer.MainActivity
+ADDED from C:\Android\Fintech Tinkoff\KinopoiskViewer\app\src\main\AndroidManifest.xml:14:9-22:20
+	android:exported
+		ADDED from C:\Android\Fintech Tinkoff\KinopoiskViewer\app\src\main\AndroidManifest.xml:16:13-36
+	android:name
+		ADDED from C:\Android\Fintech Tinkoff\KinopoiskViewer\app\src\main\AndroidManifest.xml:15:13-68
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Android\Fintech Tinkoff\KinopoiskViewer\app\src\main\AndroidManifest.xml:17:13-21:29
+action#android.intent.action.MAIN
+ADDED from C:\Android\Fintech Tinkoff\KinopoiskViewer\app\src\main\AndroidManifest.xml:18:17-69
+	android:name
+		ADDED from C:\Android\Fintech Tinkoff\KinopoiskViewer\app\src\main\AndroidManifest.xml:18:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Android\Fintech Tinkoff\KinopoiskViewer\app\src\main\AndroidManifest.xml:20:17-77
+	android:name
+		ADDED from C:\Android\Fintech Tinkoff\KinopoiskViewer\app\src\main\AndroidManifest.xml:20:27-74
+uses-sdk
+INJECTED from C:\Android\Fintech Tinkoff\KinopoiskViewer\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Android\Fintech Tinkoff\KinopoiskViewer\app\src\main\AndroidManifest.xml
+INJECTED from C:\Android\Fintech Tinkoff\KinopoiskViewer\app\src\main\AndroidManifest.xml
+MERGED from [androidx.databinding:viewbinding:7.2.2] C:\Users\JonhGameDev\.gradle\caches\transforms-3\f1e6ba2de5bde7b89d39013f1636f8b4\transformed\jetified-viewbinding-7.2.2\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.databinding:viewbinding:7.2.2] C:\Users\JonhGameDev\.gradle\caches\transforms-3\f1e6ba2de5bde7b89d39013f1636f8b4\transformed\jetified-viewbinding-7.2.2\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.3.1] C:\Users\JonhGameDev\.gradle\caches\transforms-3\009bc1f8905866e4eea612dbd20704ad\transformed\jetified-lifecycle-runtime-ktx-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.3.1] C:\Users\JonhGameDev\.gradle\caches\transforms-3\009bc1f8905866e4eea612dbd20704ad\transformed\jetified-lifecycle-runtime-ktx-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.3.1] C:\Users\JonhGameDev\.gradle\caches\transforms-3\dbdefa7ddcf951f0d6efdfa123e3a9ae\transformed\jetified-lifecycle-viewmodel-ktx-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.3.1] C:\Users\JonhGameDev\.gradle\caches\transforms-3\dbdefa7ddcf951f0d6efdfa123e3a9ae\transformed\jetified-lifecycle-viewmodel-ktx-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.room:room-ktx:2.3.0] C:\Users\JonhGameDev\.gradle\caches\transforms-3\9ffa0778a2ee59fe5898c0437cb566f1\transformed\jetified-room-ktx-2.3.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.room:room-ktx:2.3.0] C:\Users\JonhGameDev\.gradle\caches\transforms-3\9ffa0778a2ee59fe5898c0437cb566f1\transformed\jetified-room-ktx-2.3.0\AndroidManifest.xml:20:5-22:41
+MERGED from [io.coil-kt:coil:1.4.0] C:\Users\JonhGameDev\.gradle\caches\transforms-3\513567a4a6678ca1b6b29dbf856ab3e1\transformed\jetified-coil-1.4.0\AndroidManifest.xml:5:5-7:41
+MERGED from [io.coil-kt:coil:1.4.0] C:\Users\JonhGameDev\.gradle\caches\transforms-3\513567a4a6678ca1b6b29dbf856ab3e1\transformed\jetified-coil-1.4.0\AndroidManifest.xml:5:5-7:41
+MERGED from [io.coil-kt:coil-base:1.4.0] C:\Users\JonhGameDev\.gradle\caches\transforms-3\2e1583639dd5c3e6739f78571579f59f\transformed\jetified-coil-base-1.4.0\AndroidManifest.xml:5:5-7:41
+MERGED from [io.coil-kt:coil-base:1.4.0] C:\Users\JonhGameDev\.gradle\caches\transforms-3\2e1583639dd5c3e6739f78571579f59f\transformed\jetified-coil-base-1.4.0\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-ktx:2.3.1] C:\Users\JonhGameDev\.gradle\caches\transforms-3\561128d2c47186433627ba07b364941d\transformed\jetified-lifecycle-livedata-ktx-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-ktx:2.3.1] C:\Users\JonhGameDev\.gradle\caches\transforms-3\561128d2c47186433627ba07b364941d\transformed\jetified-lifecycle-livedata-ktx-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core-ktx:1.6.0] C:\Users\JonhGameDev\.gradle\caches\transforms-3\7a861f9249ccf1c1ac69df070704a690\transformed\jetified-core-ktx-1.6.0\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.core:core-ktx:1.6.0] C:\Users\JonhGameDev\.gradle\caches\transforms-3\7a861f9249ccf1c1ac69df070704a690\transformed\jetified-core-ktx-1.6.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.android.material:material:1.4.0] C:\Users\JonhGameDev\.gradle\caches\transforms-3\1be59fef075f9c84b399bd27c6146ced\transformed\material-1.4.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.4.0] C:\Users\JonhGameDev\.gradle\caches\transforms-3\1be59fef075f9c84b399bd27c6146ced\transformed\material-1.4.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.1] C:\Users\JonhGameDev\.gradle\caches\transforms-3\db61477058d906e03905d56e72c3656a\transformed\constraintlayout-2.1.1\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.1] C:\Users\JonhGameDev\.gradle\caches\transforms-3\db61477058d906e03905d56e72c3656a\transformed\constraintlayout-2.1.1\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.appcompat:appcompat:1.3.1] C:\Users\JonhGameDev\.gradle\caches\transforms-3\a0bf8b7c477d98131c9a28f42afdc00c\transformed\appcompat-1.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.3.1] C:\Users\JonhGameDev\.gradle\caches\transforms-3\a0bf8b7c477d98131c9a28f42afdc00c\transformed\appcompat-1.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.0.0] C:\Users\JonhGameDev\.gradle\caches\transforms-3\33b4d3e1ba7ed732343cbfa66aa932e4\transformed\lifecycle-extensions-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.0.0] C:\Users\JonhGameDev\.gradle\caches\transforms-3\33b4d3e1ba7ed732343cbfa66aa932e4\transformed\lifecycle-extensions-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\JonhGameDev\.gradle\caches\transforms-3\b83e256a9dec156aab1838022061cccd\transformed\jetified-viewpager2-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\JonhGameDev\.gradle\caches\transforms-3\b83e256a9dec156aab1838022061cccd\transformed\jetified-viewpager2-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.3.6] C:\Users\JonhGameDev\.gradle\caches\transforms-3\20bf8af6474958c9dd68b64a11bbc4c4\transformed\fragment-1.3.6\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.3.6] C:\Users\JonhGameDev\.gradle\caches\transforms-3\20bf8af6474958c9dd68b64a11bbc4c4\transformed\fragment-1.3.6\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.2.4] C:\Users\JonhGameDev\.gradle\caches\transforms-3\56b0f30e25c327f9b2ca646eee27c595\transformed\jetified-activity-1.2.4\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.2.4] C:\Users\JonhGameDev\.gradle\caches\transforms-3\56b0f30e25c327f9b2ca646eee27c595\transformed\jetified-activity-1.2.4\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.1] C:\Users\JonhGameDev\.gradle\caches\transforms-3\aaea4796b26d19e108fca4d867054cce\transformed\jetified-lifecycle-viewmodel-savedstate-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.1] C:\Users\JonhGameDev\.gradle\caches\transforms-3\aaea4796b26d19e108fca4d867054cce\transformed\jetified-lifecycle-viewmodel-savedstate-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.1.0] C:\Users\JonhGameDev\.gradle\caches\transforms-3\4313ff3671ffb87236bc4b9970d15589\transformed\jetified-savedstate-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.1.0] C:\Users\JonhGameDev\.gradle\caches\transforms-3\4313ff3671ffb87236bc4b9970d15589\transformed\jetified-savedstate-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.3.1] C:\Users\JonhGameDev\.gradle\caches\transforms-3\3d51039e3a89ce9fd5347f7f9a58c81c\transformed\jetified-appcompat-resources-1.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.3.1] C:\Users\JonhGameDev\.gradle\caches\transforms-3\3d51039e3a89ce9fd5347f7f9a58c81c\transformed\jetified-appcompat-resources-1.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\JonhGameDev\.gradle\caches\transforms-3\51fe5087fdd48ed501b127d98d307d54\transformed\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\JonhGameDev\.gradle\caches\transforms-3\51fe5087fdd48ed501b127d98d307d54\transformed\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\JonhGameDev\.gradle\caches\transforms-3\3688baf953389492b1552f8d053bd761\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\JonhGameDev\.gradle\caches\transforms-3\3688baf953389492b1552f8d053bd761\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] C:\Users\JonhGameDev\.gradle\caches\transforms-3\e7b6284d2f11850464daba371d7d7920\transformed\dynamicanimation-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] C:\Users\JonhGameDev\.gradle\caches\transforms-3\e7b6284d2f11850464daba371d7d7920\transformed\dynamicanimation-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.2.0] C:\Users\JonhGameDev\.gradle\caches\transforms-3\7debd0ac6ca92804222a364b299ada40\transformed\transition-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0] C:\Users\JonhGameDev\.gradle\caches\transforms-3\7debd0ac6ca92804222a364b299ada40\transformed\transition-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\JonhGameDev\.gradle\caches\transforms-3\acd4ebf8eafeaed8a1ae46c5acefbba1\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\JonhGameDev\.gradle\caches\transforms-3\acd4ebf8eafeaed8a1ae46c5acefbba1\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\JonhGameDev\.gradle\caches\transforms-3\492abe694aab402fb7abfd464f659448\transformed\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\JonhGameDev\.gradle\caches\transforms-3\492abe694aab402fb7abfd464f659448\transformed\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\JonhGameDev\.gradle\caches\transforms-3\11efc0b2fcb04ab4f7c75701ef9103a0\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\JonhGameDev\.gradle\caches\transforms-3\11efc0b2fcb04ab4f7c75701ef9103a0\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\JonhGameDev\.gradle\caches\transforms-3\0ccc3910a3a2c99e69b814b03f7b2084\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\JonhGameDev\.gradle\caches\transforms-3\0ccc3910a3a2c99e69b814b03f7b2084\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\JonhGameDev\.gradle\caches\transforms-3\0e9a627e87160c795e8cfc2f175a5723\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\JonhGameDev\.gradle\caches\transforms-3\0e9a627e87160c795e8cfc2f175a5723\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\JonhGameDev\.gradle\caches\transforms-3\3c3020521dd34189ba09ec91da80142c\transformed\recyclerview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\JonhGameDev\.gradle\caches\transforms-3\3c3020521dd34189ba09ec91da80142c\transformed\recyclerview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\JonhGameDev\.gradle\caches\transforms-3\e90300032b32763ffd445f83d39bf6d4\transformed\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\JonhGameDev\.gradle\caches\transforms-3\e90300032b32763ffd445f83d39bf6d4\transformed\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.6.0] C:\Users\JonhGameDev\.gradle\caches\transforms-3\d229b83cdc3e7ca28ee9afbf3a4add42\transformed\core-1.6.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.6.0] C:\Users\JonhGameDev\.gradle\caches\transforms-3\d229b83cdc3e7ca28ee9afbf3a4add42\transformed\core-1.6.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-process:2.0.0] C:\Users\JonhGameDev\.gradle\caches\transforms-3\cec8e3410bc84a895ae2c3d2479b8923\transformed\jetified-lifecycle-process-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-process:2.0.0] C:\Users\JonhGameDev\.gradle\caches\transforms-3\cec8e3410bc84a895ae2c3d2479b8923\transformed\jetified-lifecycle-process-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-service:2.0.0] C:\Users\JonhGameDev\.gradle\caches\transforms-3\473b5659e5c08573a819914f9cebf5bd\transformed\jetified-lifecycle-service-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-service:2.0.0] C:\Users\JonhGameDev\.gradle\caches\transforms-3\473b5659e5c08573a819914f9cebf5bd\transformed\jetified-lifecycle-service-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.3.1] C:\Users\JonhGameDev\.gradle\caches\transforms-3\9ec547c67815d36fdc9a9ef633321ede\transformed\lifecycle-runtime-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.3.1] C:\Users\JonhGameDev\.gradle\caches\transforms-3\9ec547c67815d36fdc9a9ef633321ede\transformed\lifecycle-runtime-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.3.1] C:\Users\JonhGameDev\.gradle\caches\transforms-3\ec92ccf6c55eafb268f8a999b7dafcbc\transformed\lifecycle-livedata-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.3.1] C:\Users\JonhGameDev\.gradle\caches\transforms-3\ec92ccf6c55eafb268f8a999b7dafcbc\transformed\lifecycle-livedata-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.3.1] C:\Users\JonhGameDev\.gradle\caches\transforms-3\bed940d117549e7d1194a7c5091cee1d\transformed\jetified-lifecycle-livedata-core-ktx-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.3.1] C:\Users\JonhGameDev\.gradle\caches\transforms-3\bed940d117549e7d1194a7c5091cee1d\transformed\jetified-lifecycle-livedata-core-ktx-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.1] C:\Users\JonhGameDev\.gradle\caches\transforms-3\d82162269c6d2c50040e0cc01fef604e\transformed\lifecycle-livedata-core-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.1] C:\Users\JonhGameDev\.gradle\caches\transforms-3\d82162269c6d2c50040e0cc01fef604e\transformed\lifecycle-livedata-core-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.room:room-runtime:2.3.0] C:\Users\JonhGameDev\.gradle\caches\transforms-3\1306f03411ea9a2f33bd0aa90cba6893\transformed\room-runtime-2.3.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.room:room-runtime:2.3.0] C:\Users\JonhGameDev\.gradle\caches\transforms-3\1306f03411ea9a2f33bd0aa90cba6893\transformed\room-runtime-2.3.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\JonhGameDev\.gradle\caches\transforms-3\5b17a71ece2ca989bfa8753c935f223a\transformed\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\JonhGameDev\.gradle\caches\transforms-3\5b17a71ece2ca989bfa8753c935f223a\transformed\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.1] C:\Users\JonhGameDev\.gradle\caches\transforms-3\aef68422f6d63249c4ef2bcac472b885\transformed\lifecycle-viewmodel-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.1] C:\Users\JonhGameDev\.gradle\caches\transforms-3\aef68422f6d63249c4ef2bcac472b885\transformed\lifecycle-viewmodel-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\JonhGameDev\.gradle\caches\transforms-3\ad22d687c32a4d04abba70996e2507a7\transformed\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\JonhGameDev\.gradle\caches\transforms-3\ad22d687c32a4d04abba70996e2507a7\transformed\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.sqlite:sqlite-framework:2.1.0] C:\Users\JonhGameDev\.gradle\caches\transforms-3\8e87aa78a1fcd6d6984e9f64e64ba3bb\transformed\sqlite-framework-2.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.sqlite:sqlite-framework:2.1.0] C:\Users\JonhGameDev\.gradle\caches\transforms-3\8e87aa78a1fcd6d6984e9f64e64ba3bb\transformed\sqlite-framework-2.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.sqlite:sqlite:2.1.0] C:\Users\JonhGameDev\.gradle\caches\transforms-3\89466df521033f30e2ca304e13a225a9\transformed\sqlite-2.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.sqlite:sqlite:2.1.0] C:\Users\JonhGameDev\.gradle\caches\transforms-3\89466df521033f30e2ca304e13a225a9\transformed\sqlite-2.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\JonhGameDev\.gradle\caches\transforms-3\847685e6db69733d2c4d51416fe2c0dd\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\JonhGameDev\.gradle\caches\transforms-3\847685e6db69733d2c4d51416fe2c0dd\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\JonhGameDev\.gradle\caches\transforms-3\ac62129872e1dfb74e44c079f14dafb1\transformed\jetified-tracing-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\JonhGameDev\.gradle\caches\transforms-3\ac62129872e1dfb74e44c079f14dafb1\transformed\jetified-tracing-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\JonhGameDev\.gradle\caches\transforms-3\f6c4110a858e7eb02b5571c4b199991e\transformed\core-runtime-2.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\JonhGameDev\.gradle\caches\transforms-3\f6c4110a858e7eb02b5571c4b199991e\transformed\core-runtime-2.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.exifinterface:exifinterface:1.3.3] C:\Users\JonhGameDev\.gradle\caches\transforms-3\ba41d7c162c96887af68a68fcdaeeb13\transformed\exifinterface-1.3.3\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.exifinterface:exifinterface:1.3.3] C:\Users\JonhGameDev\.gradle\caches\transforms-3\ba41d7c162c96887af68a68fcdaeeb13\transformed\exifinterface-1.3.3\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\JonhGameDev\.gradle\caches\transforms-3\5824469b91cd3ecb2574e8c63c1c6a20\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\JonhGameDev\.gradle\caches\transforms-3\5824469b91cd3ecb2574e8c63c1c6a20\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\JonhGameDev\.gradle\caches\transforms-3\07c02335439e7b0dffe3a70337f61d49\transformed\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\JonhGameDev\.gradle\caches\transforms-3\07c02335439e7b0dffe3a70337f61d49\transformed\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\JonhGameDev\.gradle\caches\transforms-3\eb1e73bd1c131dc51cdd1a4eb08aa361\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\JonhGameDev\.gradle\caches\transforms-3\eb1e73bd1c131dc51cdd1a4eb08aa361\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\JonhGameDev\.gradle\caches\transforms-3\ca720a569d1ac54396aff985e40e19a7\transformed\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\JonhGameDev\.gradle\caches\transforms-3\ca720a569d1ac54396aff985e40e19a7\transformed\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] C:\Users\JonhGameDev\.gradle\caches\transforms-3\3b09fb6f07030b199f3594a823bdf54c\transformed\jetified-annotation-experimental-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] C:\Users\JonhGameDev\.gradle\caches\transforms-3\3b09fb6f07030b199f3594a823bdf54c\transformed\jetified-annotation-experimental-1.1.0\AndroidManifest.xml:20:5-22:41
+INJECTED from C:\Android\Fintech Tinkoff\KinopoiskViewer\app\src\main\AndroidManifest.xml
+INJECTED from C:\Android\Fintech Tinkoff\KinopoiskViewer\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Android\Fintech Tinkoff\KinopoiskViewer\app\src\main\AndroidManifest.xml
+		ADDED from C:\Android\Fintech Tinkoff\KinopoiskViewer\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Android\Fintech Tinkoff\KinopoiskViewer\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Android\Fintech Tinkoff\KinopoiskViewer\app\src\main\AndroidManifest.xml
+		ADDED from C:\Android\Fintech Tinkoff\KinopoiskViewer\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Android\Fintech Tinkoff\KinopoiskViewer\app\src\main\AndroidManifest.xml
+provider#androidx.lifecycle.ProcessLifecycleOwnerInitializer
+ADDED from [androidx.lifecycle:lifecycle-process:2.0.0] C:\Users\JonhGameDev\.gradle\caches\transforms-3\cec8e3410bc84a895ae2c3d2479b8923\transformed\jetified-lifecycle-process-2.0.0\AndroidManifest.xml:23:9-27:43
+	android:authorities
+		ADDED from [androidx.lifecycle:lifecycle-process:2.0.0] C:\Users\JonhGameDev\.gradle\caches\transforms-3\cec8e3410bc84a895ae2c3d2479b8923\transformed\jetified-lifecycle-process-2.0.0\AndroidManifest.xml:25:13-69
+	android:multiprocess
+		ADDED from [androidx.lifecycle:lifecycle-process:2.0.0] C:\Users\JonhGameDev\.gradle\caches\transforms-3\cec8e3410bc84a895ae2c3d2479b8923\transformed\jetified-lifecycle-process-2.0.0\AndroidManifest.xml:27:13-40
+	android:exported
+		ADDED from [androidx.lifecycle:lifecycle-process:2.0.0] C:\Users\JonhGameDev\.gradle\caches\transforms-3\cec8e3410bc84a895ae2c3d2479b8923\transformed\jetified-lifecycle-process-2.0.0\AndroidManifest.xml:26:13-37
+	android:name
+		ADDED from [androidx.lifecycle:lifecycle-process:2.0.0] C:\Users\JonhGameDev\.gradle\caches\transforms-3\cec8e3410bc84a895ae2c3d2479b8923\transformed\jetified-lifecycle-process-2.0.0\AndroidManifest.xml:24:13-79
+service#androidx.room.MultiInstanceInvalidationService
+ADDED from [androidx.room:room-runtime:2.3.0] C:\Users\JonhGameDev\.gradle\caches\transforms-3\1306f03411ea9a2f33bd0aa90cba6893\transformed\room-runtime-2.3.0\AndroidManifest.xml:25:9-28:40
+	android:exported
+		ADDED from [androidx.room:room-runtime:2.3.0] C:\Users\JonhGameDev\.gradle\caches\transforms-3\1306f03411ea9a2f33bd0aa90cba6893\transformed\room-runtime-2.3.0\AndroidManifest.xml:28:13-37
+	android:directBootAware
+		ADDED from [androidx.room:room-runtime:2.3.0] C:\Users\JonhGameDev\.gradle\caches\transforms-3\1306f03411ea9a2f33bd0aa90cba6893\transformed\room-runtime-2.3.0\AndroidManifest.xml:27:13-43
+	android:name
+		ADDED from [androidx.room:room-runtime:2.3.0] C:\Users\JonhGameDev\.gradle\caches\transforms-3\1306f03411ea9a2f33bd0aa90cba6893\transformed\room-runtime-2.3.0\AndroidManifest.xml:26:13-74

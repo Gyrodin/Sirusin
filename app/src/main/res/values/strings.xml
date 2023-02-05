@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">KinopoiskViewer</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="genres_template">Жанры: %s</string>
+    <string name="country_template">Страны: %s</string>
+    <string name="description_template">Описание: %s</string>
+    <string name="year_template">Год: %s</string>
+    <string name="numbered_name_template">%d. %s</string>
+</resources>

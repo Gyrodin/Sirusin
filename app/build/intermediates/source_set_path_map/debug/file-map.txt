@@ -1,0 +1,27 @@
+com.example.kinopoiskViewer.app-pngs-0 C:\Android\Fintech Tinkoff\KinopoiskViewer\app\build\generated\res\pngs\debug
+com.example.kinopoiskViewer.app-resValues-1 C:\Android\Fintech Tinkoff\KinopoiskViewer\app\build\generated\res\resValues\debug
+com.example.kinopoiskViewer.app-rs-2 C:\Android\Fintech Tinkoff\KinopoiskViewer\app\build\generated\res\rs\debug
+com.example.kinopoiskViewer.app-mergeDebugResources-3 C:\Android\Fintech Tinkoff\KinopoiskViewer\app\build\intermediates\incremental\debug\mergeDebugResources\merged.dir
+com.example.kinopoiskViewer.app-mergeDebugResources-4 C:\Android\Fintech Tinkoff\KinopoiskViewer\app\build\intermediates\incremental\debug\mergeDebugResources\stripped.dir
+com.example.kinopoiskViewer.app-merged_res-5 C:\Android\Fintech Tinkoff\KinopoiskViewer\app\build\intermediates\merged_res\debug
+com.example.kinopoiskViewer.app-debug-6 C:\Android\Fintech Tinkoff\KinopoiskViewer\app\src\debug\res
+com.example.kinopoiskViewer.app-main-7 C:\Android\Fintech Tinkoff\KinopoiskViewer\app\src\main\res
+com.example.kinopoiskViewer.app-room-runtime-2.3.0-8 C:\Users\JonhGameDev\.gradle\caches\transforms-3\1306f03411ea9a2f33bd0aa90cba6893\transformed\room-runtime-2.3.0\res
+com.example.kinopoiskViewer.app-material-1.4.0-9 C:\Users\JonhGameDev\.gradle\caches\transforms-3\1be59fef075f9c84b399bd27c6146ced\transformed\material-1.4.0\res
+com.example.kinopoiskViewer.app-fragment-1.3.6-10 C:\Users\JonhGameDev\.gradle\caches\transforms-3\20bf8af6474958c9dd68b64a11bbc4c4\transformed\fragment-1.3.6\res
+com.example.kinopoiskViewer.app-jetified-coil-base-1.4.0-11 C:\Users\JonhGameDev\.gradle\caches\transforms-3\2e1583639dd5c3e6739f78571579f59f\transformed\jetified-coil-base-1.4.0\res
+com.example.kinopoiskViewer.app-coordinatorlayout-1.1.0-12 C:\Users\JonhGameDev\.gradle\caches\transforms-3\3688baf953389492b1552f8d053bd761\transformed\coordinatorlayout-1.1.0\res
+com.example.kinopoiskViewer.app-jetified-annotation-experimental-1.1.0-13 C:\Users\JonhGameDev\.gradle\caches\transforms-3\3b09fb6f07030b199f3594a823bdf54c\transformed\jetified-annotation-experimental-1.1.0\res
+com.example.kinopoiskViewer.app-recyclerview-1.1.0-14 C:\Users\JonhGameDev\.gradle\caches\transforms-3\3c3020521dd34189ba09ec91da80142c\transformed\recyclerview-1.1.0\res
+com.example.kinopoiskViewer.app-jetified-appcompat-resources-1.3.1-15 C:\Users\JonhGameDev\.gradle\caches\transforms-3\3d51039e3a89ce9fd5347f7f9a58c81c\transformed\jetified-appcompat-resources-1.3.1\res
+com.example.kinopoiskViewer.app-jetified-savedstate-1.1.0-16 C:\Users\JonhGameDev\.gradle\caches\transforms-3\4313ff3671ffb87236bc4b9970d15589\transformed\jetified-savedstate-1.1.0\res
+com.example.kinopoiskViewer.app-jetified-core-ktx-1.6.0-17 C:\Users\JonhGameDev\.gradle\caches\transforms-3\7a861f9249ccf1c1ac69df070704a690\transformed\jetified-core-ktx-1.6.0\res
+com.example.kinopoiskViewer.app-transition-1.2.0-18 C:\Users\JonhGameDev\.gradle\caches\transforms-3\7debd0ac6ca92804222a364b299ada40\transformed\transition-1.2.0\res
+com.example.kinopoiskViewer.app-lifecycle-runtime-2.3.1-19 C:\Users\JonhGameDev\.gradle\caches\transforms-3\9ec547c67815d36fdc9a9ef633321ede\transformed\lifecycle-runtime-2.3.1\res
+com.example.kinopoiskViewer.app-jetified-room-ktx-2.3.0-20 C:\Users\JonhGameDev\.gradle\caches\transforms-3\9ffa0778a2ee59fe5898c0437cb566f1\transformed\jetified-room-ktx-2.3.0\res
+com.example.kinopoiskViewer.app-appcompat-1.3.1-21 C:\Users\JonhGameDev\.gradle\caches\transforms-3\a0bf8b7c477d98131c9a28f42afdc00c\transformed\appcompat-1.3.1\res
+com.example.kinopoiskViewer.app-cardview-1.0.0-22 C:\Users\JonhGameDev\.gradle\caches\transforms-3\ad22d687c32a4d04abba70996e2507a7\transformed\cardview-1.0.0\res
+com.example.kinopoiskViewer.app-lifecycle-viewmodel-2.3.1-23 C:\Users\JonhGameDev\.gradle\caches\transforms-3\aef68422f6d63249c4ef2bcac472b885\transformed\lifecycle-viewmodel-2.3.1\res
+com.example.kinopoiskViewer.app-jetified-viewpager2-1.0.0-24 C:\Users\JonhGameDev\.gradle\caches\transforms-3\b83e256a9dec156aab1838022061cccd\transformed\jetified-viewpager2-1.0.0\res
+com.example.kinopoiskViewer.app-core-1.6.0-25 C:\Users\JonhGameDev\.gradle\caches\transforms-3\d229b83cdc3e7ca28ee9afbf3a4add42\transformed\core-1.6.0\res
+com.example.kinopoiskViewer.app-constraintlayout-2.1.1-26 C:\Users\JonhGameDev\.gradle\caches\transforms-3\db61477058d906e03905d56e72c3656a\transformed\constraintlayout-2.1.1\res
